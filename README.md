@@ -131,11 +131,17 @@ public class AdvancedCallBlocker {
 - **Memory Footprint**: Minimal system resource usage
 - **Blocking Accuracy**: 99.9% 
 
-
-# This module is depricates now. 
-
 ## 🌐 Compatibility
 
 - Android 2 (Eclair) to Android 8 (Tiramisu)
 - Most common Android variants
 - Works with major carrier networks
+
+
+
+
+
+
+
+
+# This module is depricates now as the call bloacking is not available with public APIs, it can only be done on kernal level. 
